@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computers, Coding, Farming, Snowsports, Video Games
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on anything that can teach me something that will further my career
-- 📫 How to reach me: please email me at nja5387@gmail.com
+- 📫 How to reach me: please email me at nja5387@gmail.com or message me on LinkedIn ~ https://www.linkedin.com/in/nathanielanderson500/
 
 <!---
 NateAnderson500/NateAnderson500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
